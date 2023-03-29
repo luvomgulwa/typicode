@@ -5,6 +5,6 @@ import org.testng.annotations.Test;
 public class UserPostCommentValidatorTest {
     @Test
     public void testValidateUserPostComments() {
-        UserPostCommentValidator.validateUserPostComments("khghjgk");
+        UserPostCommentValidator.validateUserPostComments("Antonette");
     }
 }
